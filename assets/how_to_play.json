@@ -1,0 +1,13 @@
+{
+  "intro": "Your daughter got kidnapped for ransom by the Capone gang. Baffled by the disturbing event, a long-time friend from the same gang let you in on a deadly secret. Legend has it that the Borsalino family -- a small but renowned mafia whom the Capone gang has feud in -- has scattered some of their treasures deep in a long-forgotten forest called RustyBones Timberland. The place is patrolled by few guards and several traps. You were handed the necessary disguise to infiltrate the perilous woodland. Now, you must run for the gold to save your dear daughter.",
+  "sections": {
+    "goals": [
+      "Survive from the traps.",
+      "Collect as many coins as you can."
+    ],
+    "commands": [
+      "UP / SPACE BAR: Jump",
+      "DOWN: Slide"
+    ]
+  }
+}
